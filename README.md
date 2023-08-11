@@ -15,4 +15,4 @@ We thank the Primary Care Research Trust of Birmingham and Midlands Research Pra
 
 
 ## Contact us 
-If you're interested in our research or have any questions get in touch [georgia.richards@kellogg.ox.ac.uk](mailto:georgia.richards@kellogg.ox.ac.uk) 
+If you're interested in our research or have any questions get in touch [georgia.richards@phc.ox.ac.uk](mailto:georgia.richards@phc.ox.ac.uk) 
